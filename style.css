@@ -1,0 +1,42 @@
+/* CSS Document */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	background-color: blue;
+	color: white;
+}
+
+.container {
+	width: 50%;
+	margin: auto 20px;
+	padding: 20px;
+	background-color: red;
+}
+
+.my-form {
+	padding: 20px;
+}
+
+.my-form .form-group {
+	padding-bottom: 15px;
+}
+
+.my-form label {
+	display: block;
+}
+
+button {
+	background-color: blue;
+	color: #FFFFFF;
+	padding: 10px 15px;
+	border: none;
+}
+
+button:hover {
+	background-color: red;
+	color: #FFFFFF;
+}
